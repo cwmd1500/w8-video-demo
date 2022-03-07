@@ -1,0 +1,60 @@
+General
+Complete name                            : C:\Users\augus\Documents\DC\Durham\CWMD1500\2020 classes\W8 Content Formats\Exercise\W8Exercises\videos\sample MP4.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 10.1 MiB
+Duration                                 : 2 min 5 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 670 kb/s
+Encoded date                             : UTC 1970-01-01 00:00:00
+Tagged date                              : UTC 2014-07-19 17:43:01
+Writing application                      : Lavf53.24.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L1.3
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2 min 5 s
+Bit rate                                 : 283 kb/s
+Width                                    : 320 pixels
+Height                                   : 240 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 15.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.246
+Stream size                              : 4.25 MiB (42%)
+Encoded date                             : UTC 1970-01-01 00:00:00
+Tagged date                              : UTC 1970-01-01 00:00:00
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 2 min 5 s
+Bit rate mode                            : Variable
+Bit rate                                 : 384 kb/s
+Maximum bit rate                         : 467 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 5.76 MiB (57%)
+Default                                  : Yes
+Alternate group                          : 1
+Encoded date                             : UTC 1970-01-01 00:00:00
+Tagged date                              : UTC 1970-01-01 00:00:00
+
